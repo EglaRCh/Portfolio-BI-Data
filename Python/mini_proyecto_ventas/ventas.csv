@@ -1,0 +1,9 @@
+order_id,product_name,category,quantity,price,date
+1,Mouse,Tecnología,2,25.00,2025-10-01
+2,Laptop,Tecnología,1,800.00,2025-10-02
+3,Camiseta,Ropa,3,15.00,2025-10-02
+4,Audífonos,Tecnología,1,50.00,2025-10-03
+5,Jeans,Ropa,2,35.00,2025-10-03
+6,Laptop,Tecnología,1,800.00,2025-10-04
+7,Camiseta,Ropa,2,15.00,2025-10-05
+8,Mouse,Tecnología,3,25.00,2025-10-06
