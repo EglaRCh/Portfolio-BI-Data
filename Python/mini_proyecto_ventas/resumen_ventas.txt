@@ -1,0 +1,5 @@
+RESUMEN DE VENTAS
+Ventas totales ($): 1765.0
+Categoría líder: Tecnología
+Ventas Categoría Líder ($): 1700.0
+Top 2 Productos Más Vendidos: [{'product_name': 'Camiseta', 'quantity': 5}, {'product_name': 'Mouse', 'quantity': 5}]
